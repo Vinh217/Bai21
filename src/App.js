@@ -26,9 +26,9 @@ function App() {
 
         {isMale && (
           <div>
-            <p>FeMale</p>
-            <p>FeMale</p>
-            <p>FeMale</p>
+            <p>Male</p>
+            <p>Male</p>
+            <p>Male</p>
           </div>
         )}
         {isMale && (
